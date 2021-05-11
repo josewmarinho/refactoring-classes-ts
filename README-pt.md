@@ -105,7 +105,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-# :closed_book: License
+# :closed_book: Licença
 
 Lançado em 2021 :closed_book: Licencia
 
